@@ -94,7 +94,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://localhost:3001/api/analyze",
+        "https://split-backend-vb6j.onrender.com/api/analyze",
         {
           method: "POST",
           headers: {
