@@ -139,7 +139,7 @@ function App() {
       formData.append("image", file);
 
       const response = await fetch(
-        "http://localhost:3001/api/analyze-image",
+        "https://split-backend-vb6j.onrender.com/api/analyze-image",
         {
           method: "POST",
           body: formData,
@@ -189,7 +189,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://localhost:3001/api/verify",
+        "https://split-backend-vb6j.onrender.com/api/verify",
         {
           method: "POST",
           headers: {
