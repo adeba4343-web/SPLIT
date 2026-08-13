@@ -1,4 +1,5 @@
 # SPLIT
+deployed version: https://split-eehj-git-main-shaf4.vercel.app/
 
 ### AI-Powered Information Intelligence & Scam Analysis
 
@@ -409,5 +410,5 @@ If you find SPLIT useful, consider giving the repository a ⭐ on GitHub.
 
 
 
-check it out here :
-https://split-eehj-j87c2kg7u-shaf4.vercel.app
+
+
